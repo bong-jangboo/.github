@@ -29,7 +29,7 @@ Bong-Jangboo는 학생 단체 회계 관리를 자동화하기 위한 시스템�
 ## 📚 위키
 
 <p>
-  <a href="https://github.com/your-org/bong-jangboo/wiki/Backend">
+  <a href="https://github.com/bong-jangboo/backend/wiki">
   💻 <strong>백엔드 위키 바로가기</strong>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/your-org/bong-jangboo/wiki/Frontend">
