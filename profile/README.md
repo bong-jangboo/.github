@@ -7,6 +7,7 @@
 Bong-Jangboo는 학생 단체 회계 관리를 자동화하기 위한 시스템입니다.
 
 은행 API, 영수증 OCR, 장부 결재 프로세스 등을 통합하여, 회계/총무 업무를 간소화하고 투명하게 관리할 수 있도록 지원합니다.
+![image](https://github.com/user-attachments/assets/92549c1e-a82e-4810-9ea1-f6fa54ddc178)
 
 ---
 
