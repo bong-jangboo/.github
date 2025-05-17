@@ -23,7 +23,7 @@ Bong-Jangboo는 학생 단체 회계 관리를 자동화하기 위한 시스템�
 
 | 💻 백엔드 | 🎨 프론트엔드 |
 |:--:|:--:|
-| **정채원** | **김OO** |
+| **정채원** | **임성균** |
 | Spring Boot, DB, CI/CD<br>[@chaewonjeong](https://github.com/chaewonjeong) | React, UI/UX<br>[@kimfrontend](https://github.com/kimfrontend) |
 
 ## 📚 위키
