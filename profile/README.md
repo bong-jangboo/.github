@@ -21,12 +21,23 @@ Bong-Jangboo는 학생 단체 회계 관리를 자동화하기 위한 시스템�
 
 ---
 
+## 🙏 Credits & 원작자
+
+이 프로젝트는 2024년 캡스톤디자인 프로젝트인 [`bong-jangboo`](https://github.com/2024-PKNU-capstone)를 기반으로 리팩토링 및 고도화한 버전입니다.  
+초기 설계 및 개발에 기여해주신 전 팀원 분들께 감사드립니다.
+
+➡️ [원작 contributors 보기](https://github.com/2024-PKNU-capstone/backend/graphs/contributors)
+
+---
+
 ## 👥 팀원 및 역할
 
 | 💻 백엔드 | 🎨 프론트엔드 |
 |:--:|:--:|
 | **정채원** | **임성균** |
 | Spring Boot, DB, CI/CD<br>[@chaewonjeong](https://github.com/chaewonjeong) | React, UI/UX<br>[@kimfrontend](https://github.com/kimfrontend) |
+
+---
 
 ## 📚 위키
 
