@@ -1,7 +1,8 @@
 # Bong-Jangboo 2.0
 
 > 이 프로젝트는 [2024-PKNU-capstone](https://github.com/2024-PKNU-capstone)의 원작을 기반으로 리팩토링 및 고도화된 버전입니다.  
-> 기존의 봉장부 프로젝트를 계승하여 유지보수성과 확장성을 고려한 구조 개선, 기능 확장, CI/CD 자동화 등을 진행하고 있습니다.
+> 기존의 봉장부 프로젝트를 계승하여 유지보수성과 확장성을 고려한 **구조 개선, 기능 확장, CI/CD 자동화** 등을 진행하고 있습니다.  
+> **프론트엔드 영역은 UI/UX 재설계와 함께 완전히 새롭게 구축**되었습니다.
 
 Bong-Jangboo는 학생 단체 회계 관리를 자동화하기 위한 시스템입니다.
 
@@ -46,3 +47,13 @@ Bong-Jangboo는 학생 단체 회계 관리를 자동화하기 위한 시스템�
 - [브랜치 전략 및 커밋 컨벤션](https://github.com/your-org/bong-jangboo/wiki/Git-Workflow)
 - [이슈 템플릿 및 PR 작성 가이드](https://github.com/your-org/bong-jangboo/wiki/Issue-PR-Guide)
 - [초기 개발 환경 세팅 가이드](https://github.com/your-org/bong-jangboo/wiki/Dev-Setup)
+- [프론트엔드 상태관리 구조 및 라우팅 전략](https://github.com/your-org/bong-jangboo/wiki/Frontend-State-Routing)
+- [컴포넌트 설계 및 디자인 시스템](https://github.com/your-org/bong-jangboo/wiki/Frontend-Design)
+
+---
+
+> 이 레포는 Bong-Jangboo 프로젝트 전체를 관리하는 Organization 레포입니다.  
+> 각각의 백엔드 및 프론트엔드 코드는 다음 레포에서 관리되고 있습니다:
+>
+> - 🔗 [Backend Repository](https://github.com/bong-jangboo/backend)
+> - 🔗 [Frontend Repository](https://github.com/bong-jangboo/frontend-demo)
